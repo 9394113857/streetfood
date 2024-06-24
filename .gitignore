@@ -16,3 +16,8 @@ env/
 
 # Logs
 *.log
+
+# enviroment
+django-project-env/
+
+
